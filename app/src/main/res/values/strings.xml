@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick Chat</string>
+    <string name="initial_intro">This app uses Whatsapp public api to open a chat with any number you enter. No contact is saved on your device.</string>
+    <string name="demo">Add Phone number and country code below, then press open chat.</string>
+</resources>
